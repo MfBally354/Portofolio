@@ -205,9 +205,9 @@ Project ini adalah open source dan tersedia di bawah [MIT License](LICENSE).
 
 ## 📊 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/MfBally354/Portfolio)
-![GitHub stars](https://img.shields.io/github/stars/MfBally354/Portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/MfBally354/Portfolio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/MfBally354/Portofolio)
+![GitHub stars](https://img.shields.io/github/stars/MfBally354/Portofolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MfBally354/Portofolio?style=social)
 
 ---
 

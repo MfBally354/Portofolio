@@ -65,7 +65,7 @@ portofolio/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/[username]/portfolio-website.git
+git clone https://github.com/MfBally354/Portfolio.git
 cd portfolio-website
 ```
 
@@ -93,7 +93,8 @@ http://localhost:8010
 
 
 ### Mobile View
-![WhatsApp Image 2025-12-24 at 20 04 30](https://github.com/user-attachments/assets/22523ed6-5f37-4acd-aad5-dc309afd868e)
+![WhatsApp Image 2025-12-25 at 12 48 02](https://github.com/user-attachments/assets/4ef162a8-1a27-4ee5-85c6-7c227d38c073)
+
 
 
 ### Skills Section
